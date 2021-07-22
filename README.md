@@ -1,2 +1,7 @@
-# ai-projects
-🇵🇹 - Coleção de projetos relacionados com Inteligência Artificial. 🇬🇧 - Project collection related to Artificial Intelligence.
+# AI Projects
+
+Project collection related to Artificial Intelligence.
+
+## List of Projects:
+
+-[Covid 19 Checker](covid-19-checker/README.md)
