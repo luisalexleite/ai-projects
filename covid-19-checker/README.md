@@ -1,4 +1,4 @@
-# AI Projects
+# Covid 19 Checker
 
 Project collection related to Artificial Intelligence.
 
