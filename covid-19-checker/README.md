@@ -1,7 +1,8 @@
 # Covid 19 Checker
 
-Project collection related to Artificial Intelligence.
+Aplication of Neural Network knowledge to detect Covid-19 and Simply Pneumonia, by lungs x-ray images.
 
-## List of Projects:
+## Features:
 
-https://drive.google.com/file/d/1fDsWDegI_OmxmPzoJtGhGDlzbD7HkUBY/view
+- Detect condition via lungs X-Rays images
+- Detect afected areas
