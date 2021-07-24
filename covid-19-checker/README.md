@@ -1,3 +1,7 @@
+<p align='center'>
+<img src="https://github.com/luisalexleite/ai-projects/blob/main/covid-19-checker/logo.png"></img>
+</p>
+
 # Covid-19 Checker
 
 Aplication of Neural Network knowledge to detect Covid-19 and Simply Pneumonia, by lungs x-ray images.
