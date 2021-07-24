@@ -12,3 +12,10 @@ Aplication of Neural Network knowledge to detect Covid-19 and Simply Pneumonia, 
 <p align='center'>
   <img alt="Model" src="https://github.com/luisalexleite/ai-projects/blob/main/covid-19-checker/model.png">
 </p>
+
+## Results
+
+### Conditions
+
+
+### Afected Areas
