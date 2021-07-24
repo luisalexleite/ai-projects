@@ -1,4 +1,4 @@
-# Covid 19 Checker
+# Covid-19 Checker
 
 Aplication of Neural Network knowledge to detect Covid-19 and Simply Pneumonia, by lungs x-ray images.
 
