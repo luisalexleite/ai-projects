@@ -1,3 +1,6 @@
+<p align='center'>
+  <img src="https://github.com/luisalexleite/ai-projects/blob/main/logo.png"></img>
+</p>
 # AI Projects
 
 Project collection related to Artificial Intelligence.
