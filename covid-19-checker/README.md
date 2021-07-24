@@ -17,5 +17,8 @@ Aplication of Neural Network knowledge to detect Covid-19 and Simply Pneumonia, 
 
 ### Conditions
 
+| Test Nº | Loss | Accuracy(%)|
+|---------|------|----------|
+|1|0.32|95.48|
 
 ### Afected Areas
