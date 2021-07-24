@@ -6,3 +6,7 @@ Aplication of Neural Network knowledge to detect Covid-19 and Simply Pneumonia, 
 
 - Detect condition via lungs X-Ray images
 - Detect afected areas
+
+## Neural Network Model
+
+![Model](https://github.com/luisalexleite/ai-projects/blob/main/covid-19-checker/model.png)
