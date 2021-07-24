@@ -4,5 +4,5 @@ Aplication of Neural Network knowledge to detect Covid-19 and Simply Pneumonia, 
 
 ## Features:
 
-- Detect condition via lungs X-Rays images
+- Detect condition via lungs X-Ray images
 - Detect afected areas
